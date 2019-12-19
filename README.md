@@ -1,6 +1,8 @@
-# Machine Learning to Predict Success of the Projects - Improving PMBoK 
+# Machine Learning to Predict Success of the Projects 
 
-## The Problem
+## Improving PMBoK 
+
+### The Problem
 
 Estimate Cost is a process to get an approximation of real values needed to complete the work in a project. For Project Management this process is performed periodically as needed. Looking for one solution, align over PMBoK Six Edition, we try to keep the same input and output of this process.
 
