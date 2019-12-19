@@ -8,4 +8,4 @@ Estimate Cost is a process to get an approximation of real values needed to comp
 
 We are using time, cost and resources (workers) to predict what the best configuration (for the features used) can bringing up the success of the projects.
 
-**The explanatory document can be read on [LinkedIn](https://www.linkedin.com/pulse/machine-learning-predict-success-projects-improving-delermando).**
+**The explanatory document can be read on [LinkedIn]https://www.linkedin.com/pulse/machine-learning-predict-success-projects-improving-delermando-1f/).**
